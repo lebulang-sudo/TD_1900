@@ -1,0 +1,113 @@
+Loading required libraries...
+[Warning] Import required library error: cannot import name '_imaging'
+> The required cost£º0.2379385
+Loading optional libraries...
+'ubpa.itools._libs_handler' loaded
+'ubpa.itools._libs_handler_single' loaded
+'ubpa.itools.http_sender' loaded
+'ubpa.itools.libs_handler' loaded
+'ubpa.itools.libs_handler_single' loaded
+'ubpa.itools.prt_cmd_color' loaded
+'ubpa.itools.rpa_environment' loaded
+'ubpa.itools.rpa_ftp' loaded
+'ubpa.itools.rpa_fun' loaded
+'ubpa.itools.rpa_import' loaded
+'ubpa.itools.rpa_pandas' loaded
+'ubpa.itools.rpa_process' loaded
+'ubpa.itools.rpa_str' loaded
+'ubpa.itools.rpa_time' loaded
+'ubpa.itools.rpa_zip' loaded
+'ubpa.itools.tools_conf_handler' loaded
+'ubpa.sys.get_environment_variable' loaded
+'ubpa.sys.rpa_sys_usage' loaded
+[Warning] Import module 'ubpa.base_cs' failed: cannot import name '_imaging'
+[Warning] Import module 'ubpa.base_cs_dll' failed: cannot import name '_imaging'
+'ubpa.base_excel' loaded
+'ubpa.base_ie' loaded
+[Warning] Import module 'ubpa.base_img' failed: cannot import name '_imaging'
+'ubpa.base_mail' loaded
+'ubpa.base_native_ait' loaded
+'ubpa.encrypt' loaded
+[Warning] Import module 'ubpa.iautomation' failed: cannot import name '_imaging'
+'ubpa.ibox' loaded
+'ubpa.ibrowse' loaded
+[Warning] Import module 'ubpa.ichrome_firefox' failed: cannot import name '_imaging'
+'ubpa.iclipboard' loaded
+'ubpa.iconstant' loaded
+'ubpa.ics' loaded
+'ubpa.icsv' loaded
+[Warning] Import module 'ubpa.icv' failed: cannot import name '_imaging'
+'ubpa.iexcel' loaded
+'ubpa.ifile' loaded
+[Warning] Import module 'ubpa.iie' failed: cannot import name '_imaging'
+[Warning] Import module 'ubpa.ijava' failed: cannot import name '_imaging'
+'ubpa.ikeyboard' loaded
+'ubpa.imail' loaded
+[Warning] Import module 'ubpa.iocr' failed: cannot import name '_imaging'
+'ubpa.ioutlook' loaded
+'ubpa.iplatform' loaded
+'ubpa.iresult' loaded
+'ubpa.irobot' loaded
+[Warning] Import module 'ubpa.isap' failed: cannot import name '_imaging'
+'ubpa.iusb' loaded
+'ubpa.iwin' loaded
+All Done
+> The optional cost£º1.1920631000000002
+> Total cost: 1.4301475000000001 
+
+Loading required libraries...
+> The required cost£º1.5367425000000001
+Loading optional libraries...
+'ubpa.itools._libs_handler' loaded
+'ubpa.itools._libs_handler_single' loaded
+'ubpa.itools.http_sender' loaded
+'ubpa.itools.libs_handler' loaded
+'ubpa.itools.libs_handler_single' loaded
+'ubpa.itools.prt_cmd_color' loaded
+'ubpa.itools.rpa_environment' loaded
+'ubpa.itools.rpa_ftp' loaded
+'ubpa.itools.rpa_fun' loaded
+'ubpa.itools.rpa_import' loaded
+'ubpa.itools.rpa_pandas' loaded
+'ubpa.itools.rpa_process' loaded
+'ubpa.itools.rpa_str' loaded
+'ubpa.itools.rpa_time' loaded
+'ubpa.itools.rpa_zip' loaded
+'ubpa.itools.tools_conf_handler' loaded
+'ubpa.sys.get_environment_variable' loaded
+'ubpa.sys.rpa_sys_usage' loaded
+'ubpa.base_cs' loaded
+'ubpa.base_cs_dll' loaded
+'ubpa.base_excel' loaded
+'ubpa.base_ie' loaded
+'ubpa.base_img' loaded
+'ubpa.base_mail' loaded
+'ubpa.base_native_ait' loaded
+'ubpa.encrypt' loaded
+'ubpa.iautomation' loaded
+'ubpa.ibox' loaded
+'ubpa.ibrowse' loaded
+'ubpa.ichrome_firefox' loaded
+'ubpa.iclipboard' loaded
+'ubpa.iconstant' loaded
+'ubpa.ics' loaded
+'ubpa.icsv' loaded
+'ubpa.icv' loaded
+'ubpa.iexcel' loaded
+'ubpa.ifile' loaded
+'ubpa.iie' loaded
+'ubpa.ijava' loaded
+'ubpa.ikeyboard' loaded
+'ubpa.imail' loaded
+'ubpa.iocr' loaded
+'ubpa.ioutlook' loaded
+'ubpa.iplatform' loaded
+'ubpa.iresult' loaded
+'ubpa.irobot' loaded
+'ubpa.isap' loaded
+'ubpa.iusb' loaded
+'ubpa.iwin' loaded
+All Done
+> The optional cost£º1.7781461
+> Total cost: 3.3150793 
+
